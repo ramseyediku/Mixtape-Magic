@@ -1,4 +1,4 @@
 - name: React
-  version: "18.x"
+  version: "19.x.x"
 - name: Vite
-  version: "3.x"
+  version: "3.x.x"
