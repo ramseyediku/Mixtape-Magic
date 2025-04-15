@@ -15,7 +15,7 @@ Mixtape Magic is a web application designed to manage and showcase user-created 
 
 ## 🚀 Live Demo
 
-👉 **[View Live Demo](mixtapemagic.netlify.app/)** _(Link will be updated once deployed...)_
+👉 **[View Live Demo](mixtapemagic.netlify.app/)**
 
 ![mixtape](https://github.com/user-attachments/assets/37fb6a98-e248-4113-a08d-740c39cd3e66)
 
